@@ -2,14 +2,14 @@
 
 ## Registration.  
 ### AWS account
-  - Create your AWS account and tell me your Email Address.  
-  - generate ssh-key.   
+  - Create your AWS account.  
+  - Generate your ssh-key pair.   
   - ```$ ssh-keygen```   
-  - save the public key on this repository.  
+  - Tell me your MailAddress and public key.  
 
 
 ## owner's job.  
-Registrate SSH-key to the instance.  
+Register SSH-key to the instance authorized_keys.  
 Allow TCP access by fixing Security Group
 
   
