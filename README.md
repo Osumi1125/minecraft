@@ -32,9 +32,10 @@ $ ssh -i [Path/to/yourSSH-key] ec2-user@[IPv4 DNS]
 - Multi Play.  
 - Access the server.  
 - set the IPv4 Adress.  
+- ENJOY MINECRAFT
 
 
   
-# stop the EC2 Instance
+## stop the EC2 Instance
 - Select EC2 -> Instance -> Name: minecraft.  
 - State of instances -> Stop the instance.  
