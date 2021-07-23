@@ -32,7 +32,7 @@ $ ssh -i [Path/to/yourSSH-key] ec2-user@[IPv4 DNS]
   
 ## Access to the Minecraft
 - Multi Play.  
-- Access the server.  
+- Add a server.  
 - set the IPv4 Adress.  
 - ENJOY MINECRAFT
 
