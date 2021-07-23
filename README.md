@@ -4,9 +4,9 @@
 ### AWS account
   - Create your AWS account.  
   - Generate your ssh-key pair.   
-  - ```$ ssh-keygen```   
+    - ```$ ssh-keygen```   
   - cheout your global ip
-  - https://www.cman.jp/network/support/go_access.cgi
+    - https://www.cman.jp/network/support/go_access.cgi
   - Tell me your MailAddress public key, and global IP.  
 
 
