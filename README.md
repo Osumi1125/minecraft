@@ -9,6 +9,7 @@
 
 
 ## owner's job.  
+https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:
 Register SSH-key to the instance authorized_keys.  
 Allow TCP access by fixing Security Group
 
@@ -24,8 +25,9 @@ Allow TCP access by fixing Security Group
 $ ssh -i [Path/to/yourSSH-key] ec2-user@[IPv4 DNS]
 [ec2-user@ip-10-0-0-4 minecraft]$ cd minecraft
 [ec2-user@ip-10-0-0-4 minecraft]$ sh Minecraft_start.sh
-...
-[09:40:51] [Server thread/INFO]: Done (56.201s)! For help, type "help"//Minecraft server is running if you can see this output
+...//wait a moment
+[09:40:51] [Server thread/INFO]: Done (56.201s)! For help, type "help" //Minecraft server is running if you can see this output
+>
 ```
   
 ## Access to the Minecraft
