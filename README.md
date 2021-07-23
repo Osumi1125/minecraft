@@ -5,7 +5,7 @@
   - Create your AWS account and tell me your Email Address.  
   - generate ssh-key.   
   - ```$ ssh-keygen```   
-  - save the SSH-key on this repository.  
+  - save the public key on this repository.  
 
 
 ## owner's job.  
