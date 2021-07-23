@@ -41,3 +41,4 @@ $ ssh -i [Path/to/yourSSH-key] ec2-user@[IPv4 DNS]
 ## stop the EC2 Instance
 - Select EC2 -> Instance -> Name: minecraft.  
 - State of instances -> Stop the instance.  
+- DONT "REMOVE" THE INSTANCE!!!!!!!!!!
