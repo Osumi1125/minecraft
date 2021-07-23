@@ -9,7 +9,7 @@
 
 
 ## owner's job.  
-https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:
+https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:   
 Register SSH-key to the instance authorized_keys.  
 Allow TCP access by fixing Security Group
 
