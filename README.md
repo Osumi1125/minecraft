@@ -46,5 +46,10 @@ $ ssh -i [Path/to/yourSSH-key] ec2-user@[IPv4 DNS]
 - DONT "REMOVE" THE INSTANCE!!!!!!!!!!
 
 
-## update info
-https://www.minecraft.net/ja-jp/download/server
+## update &  activate info.  
+https://www.minecraft.net/ja-jp/download/server.  
+```
+cd minecraft  
+curl -SLO [url to jar_file]  
+java -Xmx1024M -Xms1024M -jar [jar_file] nogui  
+```
